@@ -1,7 +1,7 @@
 baseURL = "/"
 
 languageCode = "ja-jp"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "ja"
 title = "BEAN Wiki"
 theme = "docdock"
 themesdir = "./themes/"
@@ -42,6 +42,9 @@ enableGitInfo = true
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[blackfriday]
+hrefTargetBlank = true
 
 
 [[menu.shortcuts]]
