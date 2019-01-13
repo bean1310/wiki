@@ -6,7 +6,7 @@ draft: false
 
 Program Files内を編集するとなると管理者権限でもダメって言われるのでその対処法
 
-`C:\Program Files\hoge\fo.txt`を編集するとするとき
+`C:\Program Files\RDP Wrapper\rdpwrap.ini`を編集するとするとき
 
 `C:\Program Files\RDP Wrapper`のプロパティのセキュリティタブの詳細設定を開いて上に表示されている所有者を自分のアカウント（CMD.exe で`whoami`するとわかる or マイクロソフトアカウントなら***@outlook.comなど）に変更する.
 
