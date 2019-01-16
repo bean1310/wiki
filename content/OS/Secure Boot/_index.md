@@ -13,3 +13,4 @@ draft: false
 - [What&#39;s UEFI](https://orumin.blogspot.com/2014/12/whats-uefi.html)
 - [UEFI環境でCSMとセキュアブートの設定はやはり気を付けた方がよかった - 道すがら講堂](https://michisugara.jp/archives/2017/csm_secureboot.html)
 - [Ubuntu の UEFI セキュアブート対応計画が明らかに | スラド Linux](https://linux.srad.jp/story/12/06/25/038257/)
+- [Suse Doc: 管理ガイド - セキュアブート](https://www.suse.com/ja-jp/documentation/sles11/book_sle_admin/data/sec_uefi_secboot.html)
